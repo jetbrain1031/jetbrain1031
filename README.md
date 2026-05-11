@@ -114,9 +114,8 @@ Go、TypeScript、Python、Ruby on Rails を中心に、高負荷なWebサービ
 
 # 📫 Contact
 
-* Email: [hugolam@engineer.com](mailto:hugolam@engineer.com)
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+* Email: [hugolara0704@gmail.com](mailto:hugolara0704@gmail.com)
+* GitHub: https://github.com/jetbrain1031
 
 ---
 
